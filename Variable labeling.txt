@@ -1,0 +1,83 @@
+1975 - 1984:
+Release
+Int #
+Age
+Sex
+Degree
+Income
+Race
+
+1985 - 2021:
+Release
+Int #
+age 
+sex 
+race
+Degree
+Income
+
+
+
+Age:
+1975-1995 -> 16 to 98:
+1997-2021 -> 14 to 104
+
+
+
+Sex:
+1975-2021 -> 1 = Male, 2 = Female
+
+
+
+Degree:
+1975-2021 -> 1 = yes, 5 = no
+
+
+
+Race:
+1975-1984 -> 1 = White, 2 = Black, 3 = Spanish American, 7 = Other
+
+1985 -> 1 = White, 2 = Black, 3 = American Indian or Aleut or Eskimo, 4 = Asian or Pacific Islander, 7 = Other, 8 = More than 2 mentions
+
+1986-1989 -> 1 = White, 2 = Black, 3 = American Indian or Aleut or Eskimo, 4 = Asian or Pacific Islander, 7 = Other
+
+1990-2004 -> 1 = White, 2 = Black, 3 = American Indian or Aleut or Eskimo, 4 = Asian or Pacific Islander, 5 = Latino origin or descent, 6 = Color other than black or white, 7 = Other
+
+2005-2021 -> 1 = White, 2 = Black or African-American or Negro, 3 = American Indian or Alaska Native, 4 = Asian, 5 = Native Hawaiian or Pacific Islander, 7 = Other
+
+
+
+Income:
+1975-1980 ->
+1 One dollar or less
+2 - 99,998 Actual amount
+99,999 $99,999 or more
+
+1981-1992 ->
+1 One dollar or less, including zero and negative amounts
+2 - 9,999,998 Actual amount
+9,999,999 $9,999,999 or more
+
+1993 ->
+-999,999 Loss of $999,999 or more
+-999,998 - -1 Actual loss
+0 No family money income in 1993
+1 - 9,999,998 Actual amount
+9,999,999 Latino sample family
+
+1994-1995 ->
+-999,999 Loss of $999,999 or more
+-999,998 - -1 Actual loss
+0 No family money income in 1995
+1 - 9,999,998 Actual amount
+
+1996 ->
+-99,998.99 - -.01 Actual amount of loss
+.01 - 999,998.99 Actual amount
+.00 Inap.: no loss or gain
+
+1998-2021 ->
+-999,998 - -1 Actual amount of loss
+0 No family money income in 1998
+1 - 9,999,998 Actual amount
+9,999,999 $9,999,999 or more
